@@ -10,4 +10,4 @@ If you want to submit a new replication, make sure to have:
 * Editors & reviewers suggestions (optional) from the
   [board](https://rescience-c.github.io/board/)
 
-then [**submit**](https://github.com/rescience-c/submissions/issues/new) and follow instructions.
+then [**submit**](https://github.com/rescience-c/submissions/issues/new/choose) and follow instructions.
