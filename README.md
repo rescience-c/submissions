@@ -1,5 +1,5 @@
 
-#### [ReScience C](https://rescience-c.github.io/) submission site
+### [ReScience C](https://rescience-c.github.io/) submission site
 
 If you want to submit a new replication or a letter (related to reproduciblity
 issues or computational science), make sure to have:
